@@ -1,0 +1,15 @@
+{
+  "main.css": "/leaveplanner/static/css/main.4431d31b.chunk.css",
+  "main.js": "/leaveplanner/static/js/main.0ece628f.chunk.js",
+  "main.js.map": "/leaveplanner/static/js/main.0ece628f.chunk.js.map",
+  "runtime~main.js": "/leaveplanner/static/js/runtime~main.56aa151b.js",
+  "runtime~main.js.map": "/leaveplanner/static/js/runtime~main.56aa151b.js.map",
+  "static/css/2.2e6f8fff.chunk.css": "/leaveplanner/static/css/2.2e6f8fff.chunk.css",
+  "static/js/2.156ef37a.chunk.js": "/leaveplanner/static/js/2.156ef37a.chunk.js",
+  "static/js/2.156ef37a.chunk.js.map": "/leaveplanner/static/js/2.156ef37a.chunk.js.map",
+  "index.html": "/leaveplanner/index.html",
+  "precache-manifest.8f588f826dc1c6ea0cf8d911d95bbeb8.js": "/leaveplanner/precache-manifest.8f588f826dc1c6ea0cf8d911d95bbeb8.js",
+  "service-worker.js": "/leaveplanner/service-worker.js",
+  "static/css/2.2e6f8fff.chunk.css.map": "/leaveplanner/static/css/2.2e6f8fff.chunk.css.map",
+  "static/css/main.4431d31b.chunk.css.map": "/leaveplanner/static/css/main.4431d31b.chunk.css.map"
+}
