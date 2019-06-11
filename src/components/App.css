@@ -1,0 +1,26 @@
+@import "~antd/dist/antd.css";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  /* font-size: 10px; */
+}
+
+body {
+}
+
+#components-table-demo-resizable-column .react-resizable {
+  position: relative;
+}
+
+#components-table-demo-resizable-column .react-resizable-handle {
+  position: absolute;
+  width: 10px;
+  height: 100%;
+  bottom: 0;
+  right: -5px;
+  cursor: col-resize;
+}
